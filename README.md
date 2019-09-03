@@ -8,7 +8,7 @@
 
 ### 우수상
 * 이승*, 박현*, 이예*님
-* 저장소 : https://github.com/nono5546/Timeline_React
+* 저장소 : https://github.com/nono5546/Timeline_React, https://github.com/koogk7/TimelineAPI
 * 라이선스 : MIT<br/>
 
 
